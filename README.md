@@ -2,7 +2,7 @@
 
 <h1>Clement Amo Cobbinah 💻🚀🤖</h1>
 <p>Unleashing Technological Magic! 🌟 Full-Stack Software Developer | DevOps Wizard | Cloud Solutions Architect | AI & Blockchain Explorer</p>
-<p>Crafting intelligent solutions that transform complex challenges into breakthrough innovations across the world's digital frontier! 💡🚀🧠</p>
+<p>Crafting intelligent solutions that transform complex challenges into breakthrough innovations across Africa's digital frontier! 💡🚀🧠</p>
 
 # Professional Expertise
 - 🔧 Full-Stack Software Development
@@ -16,7 +16,7 @@
 <a href="https://github.com/clecobby" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Software%20Portfolio-black?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
-<a href="https://linkedin.com/in/clement-amo-cobbinah" target="_blank">
+<a href="https://www.linkedin.com/in/clement-cobbinah-99ab0972/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 </div>
@@ -27,7 +27,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Java-Enterprise%20Applications-red?style=for-the-badge&logo=java" alt="Java"/>
 <img src="https://img.shields.io/badge/Python-Backend%20Development-green?style=for-the-badge&logo=python" alt="Python"/>
-<img src="https://img.shields.io/badge/React-Frontend%20Development-blue?style=for-the-badge&logo=react" alt="React"/>
+<img src="https://img.shields.io/badge/Rust%20Development-blue?style=for-the-badge&logo=react" alt="Rust"/>
 <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
 </div>
 
@@ -43,16 +43,12 @@
 - 🌐 Developed robust payment integration solutions
 - 🔒 Implemented secure API architectures
 - 🚀 Created scalable microservices platforms
-- 💡 Designed cross-platform mobile applications
-- 🤖 Integrated advanced AI and authentication mechanisms
-- ⛓️ Exploring blockchain potential in enterprise solutions
+- ⛓️ Exploring blockchain potential in solutions
 - 🧠 Developing intelligent data-driven applications
 
 # Open Source & Innovation
-- 💻 Active contributor to open-source projects
 - 🔍 Specializing in cloud-native and AI technologies
 - 🧠 Exploring machine learning and predictive models
-- 📊 Building intelligent, data-driven architectures
 - 🌐 Experimenting with decentralized and AI technologies
 
 # Technical Interests

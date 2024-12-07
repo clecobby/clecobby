@@ -27,13 +27,12 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Java-Enterprise%20Applications-red?style=for-the-badge&logo=java" alt="Java"/>
 <img src="https://img.shields.io/badge/Python-Backend%20Development-green?style=for-the-badge&logo=python" alt="Python"/>
-<img src="https://img.shields.io/badge/Rust%20Development-blue?style=for-the-badge&logo=react" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Rust-Systems%20Programming-orange?style=for-the-badge&logo=rust" alt="Rust"/>
 <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
 </div>
 
 ## AI, Cloud, DevOps & Blockchain
 <div align="center">
-<img src="https://img.shields.io/badge/TensorFlow-Machine%20Learning-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-orange?style=for-the-badge&logo=amazon-aws" alt="AWS"/>
 <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker" alt="Docker"/>
 <img src="https://img.shields.io/badge/Solidity-Blockchain%20Basics-purple?style=for-the-badge&logo=ethereum" alt="Solidity"/>

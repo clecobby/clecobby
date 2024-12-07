@@ -2,7 +2,7 @@
 
 <h1>Clement Amo Cobbinah 💻🚀🤖</h1>
 <p>Unleashing Technological Magic! 🌟 Full-Stack Software Developer | DevOps Wizard | Cloud Solutions Architect | AI & Blockchain Explorer</p>
-<p>Crafting intelligent solutions that transform complex challenges into breakthrough innovations across Africa's digital frontier! 💡🚀🧠</p>
+<p>Crafting intelligent solutions that transform complex challenges into breakthrough innovations across the world's digital frontier! 💡🚀🧠</p>
 
 # Professional Expertise
 - 🔧 Full-Stack Software Development

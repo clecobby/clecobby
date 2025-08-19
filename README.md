@@ -63,11 +63,6 @@
 <img src="https://img.shields.io/badge/Cloud%20Native-Certified-green?style=for-the-badge" alt="Cloud Native"/>
 </div>
 
-# GitHub Contributions
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=clecobby&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clecobby&theme=radical" alt="GitHub Streak"/>
-</div>
 
 ---
 
